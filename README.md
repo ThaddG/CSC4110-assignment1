@@ -1,4 +1,4 @@
 # CSC4110-assignment1
 
-##Thaddious Gorges
+## Thaddious Gorges
 fx7385
